@@ -8,6 +8,3 @@ Bu appi Flutter ile hazırladım.
 ### Proje Hakkında
 - Bu proje 2 kişilik bir oyundur.
 - Kullanıcılardan hangisi ekrana daha çok tıklama yaparsa o kazanır.
-
-###
-![github-small](https://i.hizliresim.com/82ll2xx.png)
