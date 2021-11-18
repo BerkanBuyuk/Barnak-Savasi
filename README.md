@@ -11,7 +11,7 @@ Bu appi Flutter ile hazırladım.
 
 ### İletişim
 [<img align="left" alt="BerkanBuyuk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/
-simple-icons@v3/icons/linkedin.svg" />][linkedin]
+simple-icons@v3/icons/linkedin.svg" />]
 
 <br/>
 <br/>
