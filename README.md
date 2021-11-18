@@ -10,4 +10,4 @@ Bu appi Flutter ile hazırladım.
 - Kullanıcılardan hangisi ekrana daha çok tıklama yaparsa o kazanır.
 
 ###
-![alt text](https://www.hizliresim.com/82ll2xx)
+![alt text](https://i.hizliresim.com/82ll2xx.png)
